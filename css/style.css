@@ -36,7 +36,7 @@ img{
 div{
     background-color: #0D0D0D;
     padding: 20px;
-    height: 125px;
+    min-height: 125px;
     border: 3px solid #ffffff;
 }
 
@@ -101,6 +101,8 @@ footer{
 
 footer > p{
     text-align: right;
+    font-size: 20px;
+    padding-left: 0px;
     padding-top: 15px;
     padding-right: 15px;
     padding-bottom: 15px;
